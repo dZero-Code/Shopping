@@ -41,7 +41,7 @@
 
 ### 3. MyBatis와 JPA 함께 사용하는법 알아보기
   - 간단한 crud : JPA
-  - 복잡한 r : MyBatis ?)  
+  - 복잡한 r : MyBatis ?
 
 ### 4. Database 구성
  - 등록일 속성 추가
